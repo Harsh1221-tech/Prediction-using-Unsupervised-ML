@@ -8,8 +8,9 @@ These algorithms discover hidden patterns or data groupings without the need for
 # DATASET : 
 https://bit.ly/3kXTdox
 
-![1](https://user-images.githubusercontent.com/94172202/141460197-7761b6cc-9594-4295-b199-958548564cc0.png)
 # THE SPARKS FOUNDATION
+![1](https://user-images.githubusercontent.com/94172202/141460197-7761b6cc-9594-4295-b199-958548564cc0.png)
+
 
 # A dedicated video for this repository (Must Watch)  
 https://www.linkedin.com/posts/harsh-modi17_task2-grip-gripnovember21-activity-6863784101749547009-x1Dt
