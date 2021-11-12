@@ -1,5 +1,10 @@
 # Prediction-using-Unsupervised-ML
 From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually. 
+
+Unsupervised learning, also known as unsupervised machine learning, uses machine learning algorithms to analyze and cluster unlabeled datasets. 
+
+These algorithms discover hidden patterns or data groupings without the need for human intervention.
+
 # DATASET : 
 https://bit.ly/3kXTdox
 
